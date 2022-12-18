@@ -17,3 +17,8 @@ This sets the forground colour to the RGB value supplied
 -bg 255,255,255
 
 This sets the background colour to the RGB value supplied
+
+Example usage:
+
+cistercian.py 5555 -w 800 -fg 255,0,20 -bg 255,255,255
+
