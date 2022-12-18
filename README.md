@@ -1,5 +1,7 @@
 # Cistercian
-A python program to draw Cistercian numeral from 0 - 9999
+A python program to draw Cistercian numerals from 0 - 9999 and output then as a PNG image.
+
+The program uses PIL as a library.
 
 
 There are a a few switches for options (and if not supplied then the defauls below are used):
